@@ -14,6 +14,10 @@
       <sourceFolder url="file://$MODULE_DIR$/all-dsa-questions/stacks-and-queues/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/all-dsa-questions/trees-and-graphs/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/all-dsa-questions/union-find/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/all-dsa-questions/topological-sort/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/all-dsa-questions/ood/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/all-dsa-questions/prefix-sum/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/all-dsa-questions/trie/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

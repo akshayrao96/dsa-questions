@@ -9,7 +9,7 @@ public class Question {
     SegmentTree tree3 = new SegmentTreeArray(arr);
     SegmentTree tree4 = new SegmentTreeArray(arr2);
 
-    System.out.println("TREE IMPLEMETATION");
+    System.out.println("TREE IMPLEMENTATION");
     exampleOne(tree);
     exampleTwo(tree2);
 
